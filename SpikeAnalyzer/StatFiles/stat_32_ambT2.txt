@@ -1,0 +1,74 @@
+log version: 0.3
+neurons amount: 32
+model img amount: 30
+treshold hist: 72.6
+treshold sky: 48.400000000000006
+out treshold: 113.0
+out sky treshold: 113.0
+hist_count_offset: 80
+sky_count_offset: 30
+true start
+ HIST u_step: [-14.] SKY u_step: [194.]
+True: ..\db\img_spike\img7_col1\true\10_1728.jpg isLandscape: False time: 95.56999373435974
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [194.]
+True: ..\db\img_spike\img7_col1\true\1_0.jpg isLandscape: True time: 93.66492533683777
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [186.]
+True: ..\db\img_spike\img7_col1\true\2_192.jpg isLandscape: True time: 93.72086834907532
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [170.]
+True: ..\db\img_spike\img7_col1\true\3_384.jpg isLandscape: True time: 94.37503051757812
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [146.]
+True: ..\db\img_spike\img7_col1\true\4_576.jpg isLandscape: True time: 92.26532816886902
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [170.]
+True: ..\db\img_spike\img7_col1\true\5_768.jpg isLandscape: True time: 93.23292827606201
+hist fired: 960 sky fired: 960
+ HIST u_step: [-14.] SKY u_step: [186.]
+True: ..\db\img_spike\img7_col1\true\6_960.jpg isLandscape: False time: 94.22911024093628
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [194.]
+True: ..\db\img_spike\img7_col1\true\7_1152.jpg isLandscape: True time: 94.03212761878967
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [194.]
+True: ..\db\img_spike\img7_col1\true\8_1344.jpg isLandscape: True time: 94.18413019180298
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [210.]
+True: ..\db\img_spike\img7_col1\true\9_1536.jpg isLandscape: True time: 93.9497299194336
+hist fired: 960 sky fired: 960
+false start
+ HIST u_step: [-14.] SKY u_step: [-14.]
+False: ..\db\img_spike\img7_col1\false\10_1728.jpg isLandscape: False time: 93.4523196220398
+hist fired: 960 sky fired: 960
+ HIST u_step: [-14.] SKY u_step: [178.]
+False: ..\db\img_spike\img7_col1\false\1_0.jpg isLandscape: False time: 93.10601091384888
+hist fired: 960 sky fired: 960
+ HIST u_step: [-14.] SKY u_step: [218.]
+False: ..\db\img_spike\img7_col1\false\2_192.jpg isLandscape: False time: 93.1199300289154
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [130.]
+False: ..\db\img_spike\img7_col1\false\3_384.jpg isLandscape: True time: 92.6041042804718
+hist fired: 960 sky fired: 960
+ HIST u_step: [226.] SKY u_step: [130.]
+False: ..\db\img_spike\img7_col1\false\4_576.jpg isLandscape: True time: 89.98606944084167
+hist fired: 960 sky fired: 960
+ HIST u_step: [-14.] SKY u_step: [146.]
+False: ..\db\img_spike\img7_col1\false\5_768.jpg isLandscape: False time: 88.03576922416687
+hist fired: 960 sky fired: 960
+ HIST u_step: [-14.] SKY u_step: [90.]
+False: ..\db\img_spike\img7_col1\false\6_960.jpg isLandscape: False time: 89.63200545310974
+hist fired: 960 sky fired: 960
+ HIST u_step: [-14.] SKY u_step: [-14.]
+False: ..\db\img_spike\img7_col1\false\7_1152.jpg isLandscape: False time: 83.93217611312866
+hist fired: 960 sky fired: 960
+ HIST u_step: [-14.] SKY u_step: [-14.]
+False: ..\db\img_spike\img7_col1\false\8_1344.jpg isLandscape: False time: 74.01656866073608
+hist fired: 960 sky fired: 960
+ HIST u_step: [-14.] SKY u_step: [-14.]
+False: ..\db\img_spike\img7_col1\false\9_1536.jpg isLandscape: False time: 72.7516598701477
+hist fired: 960 sky fired: 960
+[[8. 2.]
+ [2. 8.]]
+Total Time: 1809.8607859611511

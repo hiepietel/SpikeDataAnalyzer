@@ -1,0 +1,17 @@
+log version: 0.2
+neurons amount: 1
+model img amount: 48
+treshold hist: -1.2000000000000002
+treshold sky: -1.2000000000000002
+out treshold: 74.0
+out sky treshold: 74.0
+hist_count_offset: 50
+sky_count_offset: 50
+true start
+ HIST u_step: [-14.] SKY u_step: [-14.]
+True: ..\db\img_spike\img_col_one\true\1_0.jpg isLandscape: False time: 17.093672513961792
+hist fired: 48 sky fired: 48
+false start
+[[0. 1.]
+ [0. 0.]]
+Total Time: 17.093672513961792

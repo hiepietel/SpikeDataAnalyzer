@@ -1,0 +1,38 @@
+log version: 0.1
+neurons amount: 32
+model img amount: 47
+treshold hist: 108.9
+treshold sky: 84.69999999999999
+out treshold: 253.39999999999998
+out sky treshold: 253.39999999999998
+hist_count_offset: 35
+sky_count_offset: 30
+true start
+ HIST u_step: [346.] SKY u_step: [338.]
+True: ..\db\img_spike\spike_nor_s\true\20160806_110138 (Copy).jpg isLandscape: True time: 150.01280546188354
+hist fired: 1504 sky fired: 1504
+ HIST u_step: [354.] SKY u_step: [330.]
+True: ..\db\img_spike\spike_nor_s\true\20160806_140528 (Copy).jpg isLandscape: True time: 159.27484273910522
+hist fired: 1504 sky fired: 1504
+ HIST u_step: [362.] SKY u_step: [362.]
+True: ..\db\img_spike\spike_nor_s\true\20160806_163936 (Copy).jpg isLandscape: True time: 150.65346765518188
+hist fired: 1504 sky fired: 1504
+ HIST u_step: [330.] SKY u_step: [346.]
+True: ..\db\img_spike\spike_nor_s\true\20160806_174033 (Copy).jpg isLandscape: True time: 152.36150193214417
+hist fired: 1504 sky fired: 1504
+ HIST u_step: [282.] SKY u_step: [330.]
+True: ..\db\img_spike\spike_nor_s\true\20160820_204655 (Copy).jpg isLandscape: True time: 148.8122000694275
+hist fired: 1504 sky fired: 1504
+ HIST u_step: [322.] SKY u_step: [362.]
+True: ..\db\img_spike\spike_nor_s\true\20160828_112153_HDR (Copy).jpg isLandscape: True time: 146.29763460159302
+hist fired: 1504 sky fired: 1504
+ HIST u_step: [66.] SKY u_step: [338.]
+True: ..\db\img_spike\spike_nor_s\true\20160828_191829_HDR (Copy).jpg isLandscape: False time: 142.0409698486328
+hist fired: 1504 sky fired: 1504
+false start
+ HIST u_step: [-14.] SKY u_step: [26.]
+False: ..\db\img_spike\spike_nor_s\false\the_witcher_3_wild_hunt_shani-1920x1080 (Copy).jpg isLandscape: False time: 143.51281237602234
+hist fired: 1504 sky fired: 1504
+[[6. 1.]
+ [0. 1.]]
+Total Time: 1192.9662346839905

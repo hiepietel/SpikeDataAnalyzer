@@ -1,0 +1,70 @@
+neurons amount: 32
+model img amount: 120
+treshold hist: 96.80000000000001
+treshold sky: 96.80000000000001
+out treshold: 283.8
+hist_count_offset: 30
+sky_count_offset: 30
+hist and sky prepared
+true start
+ HIST u_step: [618.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200321_182550 (Copy) (Copy).jpg isLandscape: True time: 426.62914848327637
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [82.] SKY u_step: [938.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_131323 (Copy) (Copy).jpg isLandscape: False time: 423.5003740787506
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [674.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_141001 (Copy) (Copy).jpg isLandscape: True time: 421.31052136421204
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [74.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_143228 (Copy) (Copy).jpg isLandscape: False time: 427.1902449131012
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [442.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200514_201540 (Copy) (Copy).jpg isLandscape: True time: 433.88368821144104
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [690.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200514_204620 (Copy) (Copy).jpg isLandscape: True time: 428.8145422935486
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [810.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_162029 (Copy) (Copy).jpg isLandscape: True time: 383.7209327220917
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [594.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_190427 (Copy) (Copy).jpg isLandscape: True time: 373.90215039253235
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [858.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_190443 (Copy) (Copy).jpg isLandscape: True time: 376.01581048965454
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [498.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_200757 (Copy) (Copy).jpg isLandscape: True time: 359.82402539253235
+hist fired: 3840 sky fired: 3840
+false start
+ HIST u_step: [946.] SKY u_step: [946.]
+False: ..\db\img_spike\spike_all_s\false\cyberpunk (Copy).jpg isLandscape: True time: 379.07758927345276
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [834.] SKY u_step: [946.]
+False: ..\db\img_spike\spike_all_s\false\fortnite_4k-1920x1080 (Copy).jpg isLandscape: True time: 402.14274072647095
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [386.] SKY u_step: [946.]
+False: ..\db\img_spike\spike_all_s\false\fortnite_season_x_storm_racers_4k-1920x1080 (Copy).jpg isLandscape: True time: 403.2462911605835
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [498.] SKY u_step: [202.]
+False: ..\db\img_spike\spike_all_s\false\gwent_the_witcher_card_game_ciri_geralt_4k-1920x1080 (Copy).jpg isLandscape: False time: 422.53609466552734
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [154.] SKY u_step: [626.]
+False: ..\db\img_spike\spike_all_s\false\IMG_20200510_131330 (Copy) (Copy).jpg isLandscape: False time: 436.0201942920685
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [530.] SKY u_step: [250.]
+False: ..\db\img_spike\spike_all_s\false\IMG_20200515_162029 (Copy) (Copy).jpg isLandscape: False time: 430.2295939922333
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [426.] SKY u_step: [234.]
+False: ..\db\img_spike\spike_all_s\false\imperial_class_star_destroyer-wallpaper-1920x1080 (Copy).jpg isLandscape: False time: 444.4638178348541
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [938.] SKY u_step: [930.]
+False: ..\db\img_spike\spike_all_s\false\the_witcher_3_wild_hunt_geralt_trophies-1920x1080 (Copy).jpg isLandscape: True time: 432.04048776626587
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [-14.] SKY u_step: [322.]
+False: ..\db\img_spike\spike_all_s\false\the_witcher_3_wild_hunt_shani-1920x1080 (Copy).jpg isLandscape: False time: 416.159255027771
+hist fired: 3840 sky fired: 3840
+[[8. 2.]
+ [4. 5.]]
+Total Time: 7820.707503080368

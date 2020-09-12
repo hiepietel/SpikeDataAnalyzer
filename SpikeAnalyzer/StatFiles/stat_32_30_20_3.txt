@@ -1,0 +1,70 @@
+neurons amount: 32
+model img amount: 120
+treshold hist: 96.80000000000001
+treshold sky: 193.60000000000002
+out treshold: 378.40000000000003
+hist_count_offset: 30
+sky_count_offset: 20
+hist and sky prepared
+true start
+ HIST u_step: [618.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200321_182550 (Copy) (Copy).jpg isLandscape: True time: 307.36700439453125
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [82.] SKY u_step: [-14.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_131323 (Copy) (Copy).jpg isLandscape: False time: 326.6480474472046
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [674.] SKY u_step: [738.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_141001 (Copy) (Copy).jpg isLandscape: True time: 377.1921741962433
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [74.] SKY u_step: [538.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_143228 (Copy) (Copy).jpg isLandscape: False time: 396.7212390899658
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [442.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200514_201540 (Copy) (Copy).jpg isLandscape: True time: 408.91187834739685
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [690.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200514_204620 (Copy) (Copy).jpg isLandscape: True time: 310.35566902160645
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [810.] SKY u_step: [938.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_162029 (Copy) (Copy).jpg isLandscape: True time: 305.68062114715576
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [594.] SKY u_step: [898.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_190427 (Copy) (Copy).jpg isLandscape: True time: 305.6409332752228
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [858.] SKY u_step: [18.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_190443 (Copy) (Copy).jpg isLandscape: False time: 305.38256001472473
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [498.] SKY u_step: [-14.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_200757 (Copy) (Copy).jpg isLandscape: False time: 305.9111430644989
+hist fired: 3840 sky fired: 3840
+false start
+ HIST u_step: [946.] SKY u_step: [730.]
+False: ..\db\img_spike\spike_all_s\false\cyberpunk (Copy).jpg isLandscape: True time: 301.994131565094
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [834.] SKY u_step: [586.]
+False: ..\db\img_spike\spike_all_s\false\fortnite_4k-1920x1080 (Copy).jpg isLandscape: True time: 295.8750958442688
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [386.] SKY u_step: [922.]
+False: ..\db\img_spike\spike_all_s\false\fortnite_season_x_storm_racers_4k-1920x1080 (Copy).jpg isLandscape: True time: 307.4932312965393
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [498.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_all_s\false\gwent_the_witcher_card_game_ciri_geralt_4k-1920x1080 (Copy).jpg isLandscape: False time: 307.36633253097534
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [154.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_all_s\false\IMG_20200510_131330 (Copy) (Copy).jpg isLandscape: False time: 305.00718998908997
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [530.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_all_s\false\IMG_20200515_162029 (Copy) (Copy).jpg isLandscape: False time: 351.5557644367218
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [426.] SKY u_step: [58.]
+False: ..\db\img_spike\spike_all_s\false\imperial_class_star_destroyer-wallpaper-1920x1080 (Copy).jpg isLandscape: False time: 383.66388869285583
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [938.] SKY u_step: [642.]
+False: ..\db\img_spike\spike_all_s\false\the_witcher_3_wild_hunt_geralt_trophies-1920x1080 (Copy).jpg isLandscape: True time: 379.86426758766174
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [-14.] SKY u_step: [186.]
+False: ..\db\img_spike\spike_all_s\false\the_witcher_3_wild_hunt_shani-1920x1080 (Copy).jpg isLandscape: False time: 353.02733874320984
+hist fired: 3840 sky fired: 3840
+[[6. 4.]
+ [4. 5.]]
+Total Time: 6335.658510684967

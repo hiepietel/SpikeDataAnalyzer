@@ -1,0 +1,76 @@
+redirected to a file
+neurons amount: 32
+model img amount: 128
+treshold hist: 96.80000000000001
+treshold sky: 169.39999999999998
+out treshold: 303.0
+hist_count_offset: 30
+sky_count_offset: 15
+true start
+ HIST u_step: [866.] SKY u_step: [186.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200321_182550 (Copy) (Copy).jpg isLandscape: False time: 356.91345500946045
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [874.] SKY u_step: [194.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200510_141001 (Copy) (Copy).jpg isLandscape: False time: 348.323340177536
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [594.] SKY u_step: [242.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200514_201540 (Copy) (Copy).jpg isLandscape: False time: 341.65568685531616
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [490.] SKY u_step: [-14.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200514_204617 (Copy) (Copy).jpg isLandscape: False time: 347.20015239715576
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [818.] SKY u_step: [322.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200514_204620 (Copy) (Copy).jpg isLandscape: True time: 346.1019694805145
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [786.] SKY u_step: [226.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200515_153613 (Copy) (Copy).jpg isLandscape: False time: 351.25670623779297
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [930.] SKY u_step: [194.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200515_162029 (Copy) (Copy).jpg isLandscape: False time: 353.145872592926
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [706.] SKY u_step: [170.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200515_190427 (Copy) (Copy).jpg isLandscape: False time: 367.3656339645386
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [946.] SKY u_step: [74.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200515_190443 (Copy) (Copy).jpg isLandscape: False time: 360.9472699165344
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [666.] SKY u_step: [-6.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200515_200757 (Copy) (Copy).jpg isLandscape: False time: 340.9893288612366
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [914.] SKY u_step: [234.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200517_165932 (Copy).jpg isLandscape: False time: 345.0220649242401
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [994.] SKY u_step: [258.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200517_165935 (Copy).jpg isLandscape: False time: 366.5230145454407
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [794.] SKY u_step: [290.]
+True: ..\db\img_spike\spike_sorted_s\true\IMG_20200517_165949 (Copy).jpg isLandscape: False time: 366.91861629486084
+hist fired: 4096 sky fired: 4096
+false start
+ HIST u_step: [1010.] SKY u_step: [-6.]
+False: ..\db\img_spike\spike_sorted_s\false\cyberpunk (Copy).jpg isLandscape: False time: 367.7752366065979
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [946.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_sorted_s\false\fortnite_4k-1920x1080 (Copy).jpg isLandscape: False time: 359.91044068336487
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [594.] SKY u_step: [186.]
+False: ..\db\img_spike\spike_sorted_s\false\fortnite_season_x_storm_racers_4k-1920x1080 (Copy).jpg isLandscape: False time: 364.18423342704773
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [546.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_sorted_s\false\gwent_the_witcher_card_game_ciri_geralt_4k-1920x1080 (Copy).jpg isLandscape: False time: 350.330176115036
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [506.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_sorted_s\false\IMG_20200510_131330 (Copy) (Copy)_reverse.jpg isLandscape: False time: 355.2030243873596
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [602.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_sorted_s\false\IMG_20200515_162029 (Copy) (Copy)_reverse.jpg isLandscape: False time: 365.90097165107727
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [482.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_sorted_s\false\imperial_class_star_destroyer-wallpaper-1920x1080 (Copy).jpg isLandscape: False time: 358.151597738266
+hist fired: 4096 sky fired: 4096
+ HIST u_step: [-14.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_sorted_s\false\the_witcher_3_wild_hunt_shani-1920x1080 (Copy).jpg isLandscape: False time: 351.69560837745667
+hist fired: 4096 sky fired: 4096
+[[ 1. 12.]
+ [ 0.  8.]]
+Total Time: 7465.514400243759

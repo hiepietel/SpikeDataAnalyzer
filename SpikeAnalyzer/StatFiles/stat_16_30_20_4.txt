@@ -1,0 +1,70 @@
+neurons amount: 16
+model img amount: 120
+treshold hist: 57.0
+treshold sky: 102.60000000000001
+out treshold: 331.09999999999997
+hist_count_offset: 30
+sky_count_offset: 20
+hist and sky prepared
+true start
+ HIST u_step: [282.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200321_182550 (Copy) (Copy).jpg isLandscape: False time: 163.8583173751831
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [10.] SKY u_step: [682.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_131323 (Copy) (Copy).jpg isLandscape: False time: 161.88028979301453
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [234.] SKY u_step: [746.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_141001 (Copy) (Copy).jpg isLandscape: False time: 163.81301259994507
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [-6.] SKY u_step: [274.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_143228 (Copy) (Copy).jpg isLandscape: False time: 167.60778141021729
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [98.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200514_201540 (Copy) (Copy).jpg isLandscape: False time: 166.20825242996216
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [250.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200514_204620 (Copy) (Copy).jpg isLandscape: False time: 169.25525188446045
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [210.] SKY u_step: [930.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_162029 (Copy) (Copy).jpg isLandscape: False time: 166.18203568458557
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [202.] SKY u_step: [938.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_190427 (Copy) (Copy).jpg isLandscape: False time: 167.6210594177246
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [298.] SKY u_step: [850.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_190443 (Copy) (Copy).jpg isLandscape: False time: 165.24634385108948
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [66.] SKY u_step: [98.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_200757 (Copy) (Copy).jpg isLandscape: False time: 167.57149291038513
+hist fired: 1920 sky fired: 1920
+false start
+ HIST u_step: [434.] SKY u_step: [290.]
+False: ..\db\img_spike\spike_all_s\false\cyberpunk (Copy).jpg isLandscape: False time: 167.03661680221558
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [242.] SKY u_step: [490.]
+False: ..\db\img_spike\spike_all_s\false\fortnite_4k-1920x1080 (Copy).jpg isLandscape: False time: 171.74431467056274
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [98.] SKY u_step: [738.]
+False: ..\db\img_spike\spike_all_s\false\fortnite_season_x_storm_racers_4k-1920x1080 (Copy).jpg isLandscape: False time: 173.21910071372986
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [66.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_all_s\false\gwent_the_witcher_card_game_ciri_geralt_4k-1920x1080 (Copy).jpg isLandscape: False time: 172.06211280822754
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [-6.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_all_s\false\IMG_20200510_131330 (Copy) (Copy).jpg isLandscape: False time: 171.8265733718872
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [-14.] SKY u_step: [-14.]
+False: ..\db\img_spike\spike_all_s\false\IMG_20200515_162029 (Copy) (Copy).jpg isLandscape: False time: 174.40159392356873
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [-14.] SKY u_step: [10.]
+False: ..\db\img_spike\spike_all_s\false\imperial_class_star_destroyer-wallpaper-1920x1080 (Copy).jpg isLandscape: False time: 173.18197655677795
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [330.] SKY u_step: [186.]
+False: ..\db\img_spike\spike_all_s\false\the_witcher_3_wild_hunt_geralt_trophies-1920x1080 (Copy).jpg isLandscape: False time: 172.48509550094604
+hist fired: 1920 sky fired: 1920
+ HIST u_step: [-14.] SKY u_step: [114.]
+False: ..\db\img_spike\spike_all_s\false\the_witcher_3_wild_hunt_shani-1920x1080 (Copy).jpg isLandscape: False time: 176.1875228881836
+hist fired: 1920 sky fired: 1920
+[[ 0. 10.]
+ [ 0.  9.]]
+Total Time: 3211.3887445926666

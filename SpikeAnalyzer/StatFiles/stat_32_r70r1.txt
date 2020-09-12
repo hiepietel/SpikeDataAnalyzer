@@ -1,0 +1,14 @@
+log version: 0.3
+neurons amount: 32
+model img amount: 30
+treshold hist: 72.6
+treshold sky: 72.6
+out treshold: 158.2
+out sky treshold: 67.8
+hist_count_offset: 100
+sky_count_offset: 30
+true start
+false start
+[[0. 0.]
+ [0. 0.]]
+Total Time: 0.0

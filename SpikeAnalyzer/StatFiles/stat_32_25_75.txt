@@ -1,0 +1,70 @@
+neurons amount: 32
+model img amount: 120
+treshold hist: 96.80000000000001
+treshold sky: 48.400000000000006
+out treshold: 283.8
+hist_count_offset: 25
+sky_count_offset: 75
+hist and sky prepared
+true start
+ HIST u_step: [618.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200321_182550 (Copy) (Copy).jpg isLandscape: True time: 294.9704325199127
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [82.] SKY u_step: [938.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_131323 (Copy) (Copy).jpg isLandscape: False time: 304.4394018650055
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [674.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_141001 (Copy) (Copy).jpg isLandscape: True time: 299.1811180114746
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [74.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200510_143228 (Copy) (Copy).jpg isLandscape: False time: 298.68638372421265
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [442.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200514_201540 (Copy) (Copy).jpg isLandscape: True time: 304.3693685531616
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [690.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200514_204620 (Copy) (Copy).jpg isLandscape: True time: 316.2839057445526
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [810.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_162029 (Copy) (Copy).jpg isLandscape: True time: 313.9620327949524
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [594.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_190427 (Copy) (Copy).jpg isLandscape: True time: 312.88055300712585
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [858.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_190443 (Copy) (Copy).jpg isLandscape: True time: 317.3896040916443
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [498.] SKY u_step: [946.]
+True: ..\db\img_spike\spike_all_s\true\IMG_20200515_200757 (Copy) (Copy).jpg isLandscape: True time: 311.0744471549988
+hist fired: 3840 sky fired: 3840
+false start
+ HIST u_step: [946.] SKY u_step: [946.]
+False: ..\db\img_spike\spike_all_s\false\cyberpunk (Copy).jpg isLandscape: True time: 311.9752388000488
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [834.] SKY u_step: [946.]
+False: ..\db\img_spike\spike_all_s\false\fortnite_4k-1920x1080 (Copy).jpg isLandscape: True time: 327.4158389568329
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [386.] SKY u_step: [946.]
+False: ..\db\img_spike\spike_all_s\false\fortnite_season_x_storm_racers_4k-1920x1080 (Copy).jpg isLandscape: True time: 381.6785442829132
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [498.] SKY u_step: [306.]
+False: ..\db\img_spike\spike_all_s\false\gwent_the_witcher_card_game_ciri_geralt_4k-1920x1080 (Copy).jpg isLandscape: True time: 424.3484547138214
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [154.] SKY u_step: [786.]
+False: ..\db\img_spike\spike_all_s\false\IMG_20200510_131330 (Copy) (Copy).jpg isLandscape: False time: 424.77670979499817
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [530.] SKY u_step: [522.]
+False: ..\db\img_spike\spike_all_s\false\IMG_20200515_162029 (Copy) (Copy).jpg isLandscape: True time: 421.3628854751587
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [426.] SKY u_step: [378.]
+False: ..\db\img_spike\spike_all_s\false\imperial_class_star_destroyer-wallpaper-1920x1080 (Copy).jpg isLandscape: True time: 423.8287889957428
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [938.] SKY u_step: [946.]
+False: ..\db\img_spike\spike_all_s\false\the_witcher_3_wild_hunt_geralt_trophies-1920x1080 (Copy).jpg isLandscape: True time: 435.3213150501251
+hist fired: 3840 sky fired: 3840
+ HIST u_step: [-14.] SKY u_step: [946.]
+False: ..\db\img_spike\spike_all_s\false\the_witcher_3_wild_hunt_shani-1920x1080 (Copy).jpg isLandscape: False time: 428.5549967288971
+hist fired: 3840 sky fired: 3840
+[[8. 2.]
+ [7. 2.]]
+Total Time: 6652.500020265579
